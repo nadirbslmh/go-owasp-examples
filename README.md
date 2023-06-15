@@ -5,3 +5,15 @@ This repository contains solution examples based on [OWASP Top 10 API security r
 ## How to Use
 
 1. Clone this repository.
+
+2. Choose the application example. Then run it.
+
+```sh
+go run <example_name>/main.go
+```
+
+Example:
+
+```sh
+go run example_1/main.go
+```
